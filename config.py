@@ -14,9 +14,9 @@ BOT_TOKEN = getenv("BOT_TOKEN") #⚠️fill or leave
 
 # Specify where to get the following credentials
 OWNER_USERNAME = getenv("OWNER_USERNAME", "MrBrokn") #⚠️replace 
-BOT_USERNAME = getenv("BOT_USERNAME", "MISS_YUMIPRO_BOT") #⚠️replace
-BOT_NAME = getenv("BOT_NAME", "‣ Mɪss Yᴜᴍɪ Pʀᴏ⋆ ᴠ𝟸.𝟶") #⚠️replace
-ASSUSERNAME = getenv("ASSUSERNAME", "BROKNXASSISTANT") #⚠️Replace
+BOT_USERNAME = getenv("BOT_USERNAME", "MusicTelekramBot") #⚠️replace
+BOT_NAME = getenv("BOT_NAME", "MusicBot") #⚠️replace
+ASSUSERNAME = getenv("ASSUSERNAME", "Chakszzz") #⚠️Replace
 EVALOP = list(map(int, getenv("EVALOP", "1841914911").split())) 
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOGGER_ID = int(getenv("LOGGER_ID", -1002094142057)) #⚠️REPLACE
