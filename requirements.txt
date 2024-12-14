@@ -1,4 +1,5 @@
 aiofiles
+fastapi
 aiohttp
 apscheduler
 asyncio
